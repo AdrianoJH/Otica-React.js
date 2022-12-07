@@ -1,0 +1,58 @@
+#img-storia {
+    position: absolute;
+    width: 550px;
+    height: 650px;
+    left: 89.47px;
+    top: 250px;
+    border-radius: 10px;
+    bottom: 50px;
+}
+
+#text-title {
+    position: absolute;
+    width: 292px;
+    height: 24px;
+    left: 740px;
+    top: 330px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    font-feature-settings: "liga" off;
+    color: #505A5B;
+
+}
+
+#storia-title {
+    position: absolute;
+    width: 410px;
+    height: 219px;
+    left: 740px;
+    top: 380px;
+    font-family: "";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 60px;
+    font-feature-settings: "liga" off;
+    color: #505A5B;
+}
+
+#text {
+    position: absolute;
+    width: 350px;
+    height: 320px;
+    left: 740px;
+    top: 580px;
+    font-family: "";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 35px;
+    font-feature-settings: "liga" off;
+    color: #333333;
+
+}
